@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; configuration.title = "Push here"; ObjectID = "Bls-1U-KDa"; */
+"Bls-1U-KDa.configuration.title" = "Tryck";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Bls-1U-KDa"; */
+"Bls-1U-KDa.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Good buy"; ObjectID = "hWc-l1-kMW"; */
+"hWc-l1-kMW.text" = "Good buy";
+
+/* Class = "UILabel"; text = "Hello"; ObjectID = "k4x-DH-uMg"; */
+"k4x-DH-uMg.text" = "Hej";

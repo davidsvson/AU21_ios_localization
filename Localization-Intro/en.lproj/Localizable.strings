@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Localization-Intro
+
+  Created by David Svensson on 2022-01-20.
+  
+*/
+
+"thank_you" = "Thank You!";
+"animal" = "animal_en";
